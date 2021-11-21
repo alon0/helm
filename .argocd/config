@@ -1,0 +1,12 @@
+contexts:
+- name: ab7caae7b46bc4916bd474454202e698-1292853233.eu-west-1.elb.amazonaws.com
+  server: ab7caae7b46bc4916bd474454202e698-1292853233.eu-west-1.elb.amazonaws.com
+  user: ab7caae7b46bc4916bd474454202e698-1292853233.eu-west-1.elb.amazonaws.com
+current-context: ab7caae7b46bc4916bd474454202e698-1292853233.eu-west-1.elb.amazonaws.com
+servers:
+- grpc-web-root-path: ""
+  insecure: true
+  server: ab7caae7b46bc4916bd474454202e698-1292853233.eu-west-1.elb.amazonaws.com
+users:
+- auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2Mzc1OTg3MTksImp0aSI6IjNhZWMzMTU5LTdjYWYtNGRlYi05MjQwLWEyZDg2YTBkM2RhZSIsImlhdCI6MTYzNzUxMjMxOSwiaXNzIjoiYXJnb2NkIiwibmJmIjoxNjM3NTEyMzE5LCJzdWIiOiJhZG1pbjpsb2dpbiJ9.uHFbUcqeaAdnRlEsAKCu81EcHNQ83b1UqDl30ZDHNGM
+  name: ab7caae7b46bc4916bd474454202e698-1292853233.eu-west-1.elb.amazonaws.com
